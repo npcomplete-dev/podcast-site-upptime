@@ -8,8 +8,8 @@ sites:
   
 status-website:
   baseUrl: /podcast-site-upptime
-  logoUrl: https://d12xoj7p9moygp.cloudfront.net/favicon/favicon-wave-32x32.png
-  name: Npcomplete Upptime status
+  logoUrl: https://npcomplete.dev/wp-content/uploads/2021/01/cropped-np-32x32.png
+  name: Npcomplete Upptime
   introTitle: "**NpComplete** status page."
   introMessage: This is a sample status page for [https://npcomplete.dev/](https://npcomplete.dev/)
   navbar:
