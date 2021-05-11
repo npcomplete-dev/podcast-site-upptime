@@ -4,19 +4,19 @@
     "url": "https://npcomplete.dev/",
     "icon": "https://favicons.githubusercontent.com/npcomplete.dev",
     "slug": "np-complete",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 957,
-    "timeDay": 974,
-    "timeWeek": 1015,
-    "timeMonth": 957,
-    "timeYear": 957,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 969,
+    "timeDay": 1080,
+    "timeWeek": 1036,
+    "timeMonth": 969,
+    "timeYear": 969,
     "dailyMinutesDown": {
-      "2021-05-11": 0
+      "2021-05-11": 5
     }
   }
 ]
