@@ -4,7 +4,7 @@
     "url": "https://npcomplete.dev/",
     "icon": "https://favicons.githubusercontent.com/npcomplete.dev",
     "slug": "np-complete",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,10 +12,11 @@
     "uptimeYear": "99.97%",
     "time": 1187,
     "timeDay": 732,
-    "timeWeek": 1284,
+    "timeWeek": 1323,
     "timeMonth": 1255,
     "timeYear": 1187,
     "dailyMinutesDown": {
+      "2021-12-07": 0,
       "2021-06-19": 18,
       "2021-05-19": 37,
       "2021-05-14": 27
