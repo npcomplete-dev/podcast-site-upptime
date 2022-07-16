@@ -5,10 +5,10 @@
     "icon": "https://favicons.githubusercontent.com/npcomplete.dev",
     "slug": "np-complete",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1243,
     "timeDay": 1018,
@@ -16,7 +16,6 @@
     "timeMonth": 1025,
     "timeYear": 1277,
     "dailyMinutesDown": {
-      "2022-07-15": 13,
       "2022-04-04": 91,
       "2022-02-28": 101
     }
