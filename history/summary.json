@@ -6,9 +6,9 @@
     "slug": "np-complete",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "94.50%",
-    "uptimeWeek": "98.97%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "95.05%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.97%",
     "time": 1322,
     "timeDay": 1891,
@@ -16,7 +16,7 @@
     "timeMonth": 2906,
     "timeYear": 1292,
     "dailyMinutesDown": {
-      "2023-05-05": 79,
+      "2023-05-05": 71,
       "2023-04-30": 25,
       "2023-01-25": 16,
       "2022-11-11": 25
