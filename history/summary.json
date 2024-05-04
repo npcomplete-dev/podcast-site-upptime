@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/npcomplete.dev.ico",
     "slug": "np-complete",
     "status": "down",
-    "uptime": "88.64%",
+    "uptime": "88.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "65.93%",
+    "uptimeYear": "65.66%",
     "time": 1177,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1056,
+    "timeYear": 1015,
     "dailyMinutesDown": {
-      "2024-05-03": 33,
+      "2024-05-04": 30,
+      "2024-05-03": 1440,
       "2024-05-02": 1440,
       "2024-05-01": 1440,
       "2024-04-30": 1440,
@@ -141,8 +142,7 @@
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
-      "2023-12-30": 382,
-      "2023-05-05": 71
+      "2023-12-30": 382
     }
   }
 ]
